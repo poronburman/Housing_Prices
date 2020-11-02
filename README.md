@@ -1,3 +1,3 @@
 # Housing_Prices
 
-![](Figures/pairplot.pdf)
+![](Figures/Pairplot.png)
