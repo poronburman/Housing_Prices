@@ -11,7 +11,7 @@
 * Applied the Classification model.    
 * Presented the Data Analysis results: Confusion Matrix and Classification Report.    
 
-4. Logistic Regression Classification model performed best in this project.
+4. Logistic Regression Classification model performed best in this project and can be used to classify any future reviews for this restaurant as positive or negative.   
 
 5. Listed below are the Confusion Matrix and Classification Report of the various Classification models used in this project, arranged in order of decreasing accuracy:    
 
