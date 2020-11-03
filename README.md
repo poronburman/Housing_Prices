@@ -11,8 +11,9 @@
 * Applied the Classification model.    
 * Presented the Data Analysis results: Confusion Matrix and Classification Report.    
 
-2. Logistic Regression Classification model performed best in this project.
-3. Listed below are the Confusion Matrix and Classification Report of the various Classification models used in this project, arranged in order of decreasing accuracy:    
+4. Logistic Regression Classification model performed best in this project.
+
+5. Listed below are the Confusion Matrix and Classification Report of the various Classification models used in this project, arranged in order of decreasing accuracy:    
 
 ## Logistic Regression
 
@@ -69,10 +70,3 @@
 
 **Classification Report**    
 ![](Figures/naive_classification_report.png)
-
-
-
-
-
-
-
