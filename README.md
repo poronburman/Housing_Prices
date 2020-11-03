@@ -1,7 +1,7 @@
 # Restaurant Reviews Classification
 
-1. This project usesNatural Language Processing and various Regression models to classify the reviews of a restaurant as being positive or negative.
-* The dataset was taken from kaggle and the link to the dataset can be found here [kaggle](https://www.kaggle.com/rhuebner/human-resources-data-set)
-* Just as an overview of the dataset, one can look at the pairplot figure of all the variables in the dataset below.
-
-![](Figures/Pairplot.png)
+1. This project uses Natural Language Processing and various Classification models to classify the reviews of a restaurant as being positive or negative.
+2. Listed below are the Confusion Matrix and Classification Report of the various Classification models used in this project, arranged in order of decreasing accuracy:
+* Logistic Regression
+![](Figures/logistic_cm.png)
+![](Figures/logistic_classification_report.png)
