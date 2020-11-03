@@ -9,7 +9,7 @@
 * Created a sparse matrix of the dataset.    
 * Divided the dataset into training and testing data.    
 * Applied the Classification model.    
-* Presented the Data Analysis results: Confusion Matrix and Classification Report.    
+* Present the Data Analysis results: Confusion Matrix and Classification Report.    
 
 4. Logistic Regression Classification model performed best in this project and can be used to classify any future reviews for this restaurant as positive or negative.   
 
