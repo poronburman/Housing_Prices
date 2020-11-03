@@ -25,4 +25,43 @@
 ![](Figures/svm_cm.png)  
 
 **Classification Report**    
-![](Figures/svm_classification_report.png)
+![](Figures/svm_classification_report.png)    
+
+## Random Forest    
+
+**Confusion Matrix**    
+![](Figures/random_forest_cm.png)  
+
+**Classification Report**    
+![](Figures/random_classification_report.png)    
+
+## Kernel SVM    
+
+**Confusion Matrix**    
+![](Figures/kernel.png)  
+
+**Classification Report**    
+![](Figures/kernel_classification_report.png)    
+
+## Decision Tree    
+
+**Confusion Matrix**    
+![](Figures/decision_cm.png)  
+
+**Classification Report**    
+![](Figures/decision_classification_report.png)    
+
+## Naive Bayes    
+
+**Confusion Matrix**    
+![](Figures/naive_cm.png)  
+
+**Classification Report**    
+![](Figures/naive_classification_report.png)
+
+
+
+
+
+
+
