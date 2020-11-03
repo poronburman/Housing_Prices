@@ -5,10 +5,16 @@
 
 ## Logistic Regression
 
+**Confusion Matrix**    
 ![](Figures/logistic_cm.png)
+
+**Classification Report**    
 ![](Figures/logistic_classification_report.png)
 
 ## K Nearest Neighbors Classifier   
 
+**Confusion Matrix**    
 ![](Figures/knn_cm.png)
+
+**Classification Report**    
 ![](Figures/knn_classification_report.png)
