@@ -17,4 +17,12 @@
 ![](Figures/knn_cm.png)
 
 **Classification Report**    
-![](Figures/knn_classification_report.png)
+![](Figures/knn_classification_report.png)    
+
+## Support Vector Machine    
+
+**Confusion Matrix**    
+![](Figures/svm_cm.png)  
+
+**Classification Report**    
+![](Figures/svm_classification_report.png)
